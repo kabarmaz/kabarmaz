@@ -22,16 +22,16 @@ avatar: /images/reverie.png
 footer-links:
   dribbble:
   email: -
-  facebook: https://www.facebook.com/geomatikhacettepe
+  facebook:geomatikhacettepe
   flickr:
   github:
-  instagram: https://www.instagram.com/hacettepegeomatik/
+  instagram: hacettepegeomatik
   linkedin: 
   pinterest:
   rss: rss
-  twitter: https://twitter.com/HUGeomatics
+  twitter: HUGeomatics
   stackoverflow: 
-  youtube: https://www.youtube.com/channel/UCdyArtjnujQRcz0ASnAUcSA
+  youtube: channel/<UCdyArtjnujQRcz0ASnAUcSA>
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
 
