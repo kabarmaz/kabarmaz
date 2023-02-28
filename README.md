@@ -1,4 +1,4 @@
-You'll lose <1=&lt;color=#FF5354&gt;> Live Arena Points<2=&lt;/color&gt;><0=> each day you remain inactive.
+You'll lose <div &lt;color=#FF5354&gt;><div> Live Arena Points<div &lt;/color&gt;> each day you remain inactive.
 
 
 
