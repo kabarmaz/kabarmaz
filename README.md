@@ -1,3 +1,27 @@
+You'll lose <1=&lt;color=#FF5354&gt;><0=> Live Arena Points<2=&lt;/color&gt;> each day you remain inactive.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
   <br>
   <img src="/images/reverie-text.png" alt="Reverie" width="200"/>
